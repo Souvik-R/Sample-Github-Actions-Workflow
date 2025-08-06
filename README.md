@@ -1,5 +1,6 @@
-Welcome to the sample giothub actions workfloe setup end to end.
+Welcome to the sample giothub actions workflow setup end to end.
 
-Added workflow
+Added first workflow
 
-Added workflow
+Added second workflow
+
